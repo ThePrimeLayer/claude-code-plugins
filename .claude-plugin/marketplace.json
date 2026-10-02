@@ -1,0 +1,8 @@
+{
+  "name": "primelayer",
+  "owner": { "name": "ThePrimeLayer" },
+  "metadata": {
+    "description": "Claude Code plugins and mods by ThePrimeLayer, each used day to day before release"
+  },
+  "plugins": []
+}
